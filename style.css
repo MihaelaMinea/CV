@@ -24,6 +24,7 @@ body{
     margin-left: 50px;
     
     
+    
    
 }
 .imgFlo{
@@ -43,14 +44,15 @@ body{
     font-size: 40px;
     font-family: 'Roboto',sans-serif, Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    margin: 20px;
 }
 .personalStatement{
     position: absolute;
-    top: 27%;
+    top: 33%;
     left: 50%;
     color: white;
     font-size: 30px;
-    font-family:'sans-serif', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Roboto', Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
     margin-right: 40px; 
     line-height: 1.5;
@@ -69,11 +71,7 @@ body{
       
     }
 .skills{
-   /* width: 40rem;
-    height: 20rem;*/
-    
     padding: 10px;
-    
     background-color: rgb(18,28,30);
     font-size: 30px;
     font-family: 'Roboto',Arial, Helvetica, sans-serif;
@@ -98,7 +96,7 @@ h1{
      .nameIntroduction{
         color: white;
     font-size: 100%;
-    font-family:'Roboto', Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    
      }
      .namePosition{
         color: white;
@@ -106,22 +104,22 @@ h1{
         font-family:'sans-serif', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
      }
      .personalStatement{
-        font-size: 20px;
+        font-size: 22px;
     font-family:'sans-serif', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
     margin-right: 5px; 
-    line-height: 1.5;
+    line-height: 1.8;
     left: 10px;
      }
      .mainSkills {
         display: flex;
         flex-direction: column;  
-        gap: 2px;
+        gap: 5px;
         margin: 1px;
               
       }
       .skills{  
-        padding: 2px;
+        margin: 10px;
         font-size: 18px;
       }
      
