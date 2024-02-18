@@ -91,7 +91,7 @@ h1{
 
         margin: 0;
         width: 100vh;
-        
+        height:30vh;
      }
 
      .nameIntroduction{
@@ -105,12 +105,13 @@ h1{
         font-family:'sans-serif', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
      }
      .personalStatement{
-        font-size: 10px;
+        font-size: 25px;
     font-family:'sans-serif', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
     margin-right: 5px; 
     line-height: 1.5;
           left: 10px;
+         
      }
     .mainSkills {
       display: flex;
