@@ -104,11 +104,11 @@ h1{
         font-family:'sans-serif', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
      }
      .personalStatement{
-        font-size: 22px;
+        font-size: 20px;
     font-family:'sans-serif', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
     margin-right: 5px; 
-    line-height: 1.8;
+    line-height: 1.6;
     left: 10px;
      }
      .mainSkills {
