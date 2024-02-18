@@ -68,12 +68,8 @@ body{
      
       
     }
-.skills{
-   /* width: 40rem;
-    height: 20rem;*/
-    
+.skills{  
     padding: 10px;
-    
     background-color: rgb(228, 227, 225);
     font-size: 30px;
     font-family: 'Roboto',Arial, Helvetica, sans-serif;
@@ -105,7 +101,7 @@ h1{
         font-family:'sans-serif', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
      }
      .personalStatement{
-        font-size: 25px;
+        font-size: 18px;
     font-family:'sans-serif', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
     margin-right: 5px; 
@@ -117,8 +113,11 @@ h1{
       display: flex;
       flex-direction: column;  
       gap: 2px;
-      margin: 1px;
-     
-      
+      margin: 1px;     
     }
+    .skills{  
+    padding: 2px;
+    font-size: 18px;
+        
+}
 }
