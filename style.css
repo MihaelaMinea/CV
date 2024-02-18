@@ -3,13 +3,14 @@ body{
     background-color: rgb(197, 197, 193);
 }
 .imgIntroductio{
-   width: 100%; 
+    
+   width: 100%;
    height: 70rem;
 }
 .firstLine{
     position: relative;
     display: inline-block;
-    width: 100%; 
+   width: 100%; 
     height: 60rem;
    
 }
@@ -83,6 +84,8 @@ h1{
     padding-left: 40px;
     
 }
+    
+
 @media (min-width: 300px) and (max-width: 800px){
     .imgIntroduction{
 
@@ -109,4 +112,3 @@ h1{
     line-height: 1.5;
      }
 }
-
